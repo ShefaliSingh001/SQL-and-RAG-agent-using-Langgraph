@@ -1,3 +1,16 @@
 .env
 .ipynb_checkpoints/
 __pycache__/
+# OS Junk
+.DS_Store
+**/.DS_Store
+
+# Temporary files
+**/tempCodeRunnerFile.py
+
+# Ignore large database files
+data/*.sqlite
+data/*.db
+
+# Ignore local Chroma Vector DB binary files
+data/*_vectordb/
