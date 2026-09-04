@@ -27,6 +27,9 @@ The retrieved information is then passed to an LLM to generate a natural-languag
 ## Methodology
 
 The system follows an agentic workflow consisting of several stages to evaluate incoming queries and route them to the appropriate subsystem.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5988f570-b61f-4dda-9fae-d19df1f75be0" />
+
+
 
 ### 1. User Query
 
